@@ -1,0 +1,1 @@
+D:\myproject\caffe_win\20190410\caffe-windows\build\tools\Release\caffe.exe train --solver=D:\myproject\caffe_win\20190410\regression\regress_solver.prototxt

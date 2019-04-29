@@ -1,0 +1,1 @@
+D:\myproject\caffe_win\20190410\caffe-windows\build\tools\Debug\convert_imageset-d.exe --shuffle --resize_height=400 --resize_width=400 E:\data\pic\sun_save\ D:\myproject\caffe_win\20190410\regression\data\trainval.txt D:\myproject\caffe_win\20190410\regression\data\img_train_lmdb
